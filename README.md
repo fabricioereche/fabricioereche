@@ -2,13 +2,16 @@
 
 Since 2008 working along with software development as a job, as a carrer, as a friend
 
-<center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioereche&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabricioereche&theme=buefy"/></td>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabricioereche&hide_border=true&theme=buefy" />
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioereche&hide=html&hide_border=true&layout=compact&theme=buefy" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=fabricioereche&hide_border=true&theme=buefy"/></td>
     </tr>   
 </table>
-</center>  
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,go,js,nextjs,mongodb,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,git,github,docker,go,js,babel,react,nodejs,nextjs,mongodb,mysql,postgresql&theme=light)](https://skillicons.dev)
