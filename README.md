@@ -14,4 +14,4 @@ Since 2008 working along with software development as a job, as a carrer, as a f
     </tr>   
 </table>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,git,github,docker,go,js,babel,react,nodejs,nextjs,mongodb,mysql,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,vscode,git,github,docker,go,ts,js,nodejs,nextjs,mongodb,mysql,postgresql&theme=light)](https://skillicons.dev)
